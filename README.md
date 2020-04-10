@@ -8,4 +8,4 @@ It can be downloaded from the following [link](https://www.swi-prolog.org/downlo
 2. Open SWI Prolog -> File -> Consult...<br />
 3. Choose Facts.pl, repeat the process for rules.pl and expert.pl<br />
 4. type the command : `test().`<br />
-5. Select one of the ooptions as per your requirment
+5. Select one of the options as per your requirment
